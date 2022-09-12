@@ -1,3 +1,18 @@
+
+
+body {
+    background: #CCCCCC
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+
 .enviar {
     width:40%;
     padding: 15px 0;
